@@ -1,0 +1,1 @@
+Pizza Shop Point of sale. Maintain a collection of orders and purchased items aimed at a Kebab/Pizza/Coffee Shop. Simple price controls, printing and admin tools.
